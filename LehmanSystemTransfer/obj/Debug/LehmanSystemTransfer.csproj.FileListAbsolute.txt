@@ -1,0 +1,10 @@
+C:\Users\Sim Kim Wee\source\repos\NewLehmanDataApp\LehmanSystemTransfer\bin\Debug\LehmanSystemTransfer.exe.config
+C:\Users\Sim Kim Wee\source\repos\NewLehmanDataApp\LehmanSystemTransfer\bin\Debug\LehmanSystemTransfer.exe
+C:\Users\Sim Kim Wee\source\repos\NewLehmanDataApp\LehmanSystemTransfer\bin\Debug\LehmanSystemTransfer.pdb
+C:\Users\Sim Kim Wee\source\repos\NewLehmanDataApp\LehmanSystemTransfer\bin\Debug\Dapper.dll
+C:\Users\Sim Kim Wee\source\repos\NewLehmanDataApp\LehmanSystemTransfer\bin\Debug\Dapper.Extension.dll
+C:\Users\Sim Kim Wee\source\repos\NewLehmanDataApp\LehmanSystemTransfer\bin\Debug\Dapper.xml
+C:\Users\Sim Kim Wee\source\repos\NewLehmanDataApp\LehmanSystemTransfer\obj\Debug\LehmanSystemTransfer.csproj.CoreCompileInputs.cache
+C:\Users\Sim Kim Wee\source\repos\NewLehmanDataApp\LehmanSystemTransfer\obj\Debug\LehmanSystemTransfer.csproj.CopyComplete
+C:\Users\Sim Kim Wee\source\repos\NewLehmanDataApp\LehmanSystemTransfer\obj\Debug\LehmanSystemTransfer.exe
+C:\Users\Sim Kim Wee\source\repos\NewLehmanDataApp\LehmanSystemTransfer\obj\Debug\LehmanSystemTransfer.pdb

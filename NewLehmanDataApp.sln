@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2043
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewLehmanDataApp", "NewLehmanDataApp\NewLehmanDataApp.csproj", "{01BCF5D0-DE7D-4936-9FC4-117C59E5800B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LehmanSystemTransfer", "LehmanSystemTransfer\LehmanSystemTransfer.csproj", "{8E3C984C-5511-4DA2-9F9A-022A2690DE6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01BCF5D0-DE7D-4936-9FC4-117C59E5800B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BCF5D0-DE7D-4936-9FC4-117C59E5800B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BCF5D0-DE7D-4936-9FC4-117C59E5800B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BCF5D0-DE7D-4936-9FC4-117C59E5800B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E3C984C-5511-4DA2-9F9A-022A2690DE6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E3C984C-5511-4DA2-9F9A-022A2690DE6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E3C984C-5511-4DA2-9F9A-022A2690DE6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E3C984C-5511-4DA2-9F9A-022A2690DE6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EC912B4-D2B4-4E77-AF77-730161733A74}
+	EndGlobalSection
+EndGlobal
